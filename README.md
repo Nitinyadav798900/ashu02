@@ -16,4 +16,7 @@ Direct Deploy via click these button
 
 [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/nikhilsainiop/saini-txt-direct)
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?name=saini-txt-direct&repository=nikhilsainiop%2Fsaini-txt-direct&branch=main&instance_type=free&instances_min=0)
+## Deploy To Koyeb
+              
+<a target="/blank" href="https://app.koyeb.com/deploy?type=git&repository=github.com/Nitinyadav798900/ashu02&branch=main&name=Nitinyadav798900" >
+  <img src="https://www.koyeb.com/static/images/deploy/button.svg" alt="Deploy"></a>
